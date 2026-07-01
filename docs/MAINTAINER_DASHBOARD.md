@@ -1,6 +1,6 @@
 # Maintainer Dashboard
 
-Generated: 2026-06-01
+Generated: 2026-07-01
 
 This dashboard is the small operating view for Open Source Starter Lab. It keeps the repo looking alive, curated, and reviewable without making contributors guess what is happening.
 
@@ -28,16 +28,21 @@ Every daily issue should include context, goal, suggested files, acceptance crit
 
 | Contributor | Level | Contributions | Proof |
 | --- | --- | --- | --- |
+| @meenakshirejeendran | 2 - Returning Contributor | 2 | [passport](../contributors/passports/meenakshirejeendran.md) |
+| @Naveen-babu-t | 2 - Returning Contributor | 2 | [passport](../contributors/passports/naveen-babu-t.md) |
 | @Bhuvanakalaga | 1 - First PR Contributor | 1 | [passport](../contributors/passports/bhuvanakalaga.md) |
+| @cal432689-beep | 1 - First PR Contributor | 1 | [passport](../contributors/passports/cal432689-beep.md) |
 | @DarkRoot-Cmd | 1 - First PR Contributor | 1 | [passport](../contributors/passports/darkroot-cmd.md) |
 | @nanookclaw | 1 - First PR Contributor | 1 | [passport](../contributors/passports/nanookclaw.md) |
+| @P-r-e-m-i-u-m | 1 - First PR Contributor | 1 | [passport](../contributors/passports/p-r-e-m-i-u-m.md) |
+| @vatsala205 | 1 - First PR Contributor | 1 | [passport](../contributors/passports/vatsala205.md) |
 
 ## Monthly Contributor Spotlight
 
-This month, the spotlight is on @Bhuvanakalaga.
+This month, the spotlight is on @meenakshirejeendran.
 
-- Passport level: 1 - First PR Contributor
-- Verified contributions: 1
+- Passport level: 2 - Returning Contributor
+- Verified contributions: 2
 - Why it matters: visible proof helps new contributors trust that the repo is active and reviewable.
 
 ## This Month's Maintainer Focus
